@@ -33,6 +33,7 @@ Para el análisis y respuestas a las preguntas de investigación, escribimos có
 -	sklearn.neighbors: KNeighborsClassifier
 -	sklearn.tree: DecisionTreeClassifier, plot_tree
 
+
 El procedimiento del proyecto fue llevado a cabo de la siguiente manera:
 1. La propuesta y realización de preguntas fue definida en conjunto por todo el grupo.
 2. "EDA" dividido en partes donde Cristobal Hernández se encargo de la limpieza de datos y verificar su calidad, Fernando Pavéz del proceso relacionado a la distribución de datos y estadísticas de estos, y Sebastian Blanco de la correlación entre datos y análisis multivariado.
