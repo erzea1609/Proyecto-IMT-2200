@@ -43,7 +43,7 @@ El procedimiento del proyecto fue llevado a cabo de la siguiente manera:
 El proyecto esta organizado en las siguientes carpetas :
 - En EDA esta el notebook con el proceso de limpieza y exploracion de datos junto con un csv que es la base de datos.
 - En la carpeta preguntas se encuentran los notebooks separados por cada pregunta que fue planteada en el EDA ,ademas se encuentra el archivo con los datos limpios.
-- En la carpeta de propuesta de proyecto hay un pdf con la organizacion de nuestro proyecto ,donde estan las motivaciones y objetivos de este mismo.
+- En la carpeta de propuesta de proyecto hay un pdf con la organizacion de nuestro proyecto ,donde estan las motivaciones y objetivos de este mismo y ademas una carpeta llamada ```datos_lesiones```, donde estan almacenados  ```data```(datos crudos), ```datos_``` que es una muestra de los datos, con la informacion de las columnas ,caracteristicas generales de las columnas ,etc.Tambien esta el csv ```Datos_limpio``` que son los datos ya procesados y listos para usar.Ademas hay un pdf llamado ```Propuesta``` donde esta la misma informacion de ```datos_``` pero en formato pdf.
 
 EJECUCION Y REPRODUCTIBILIDAD :
 Como fue mencionado anteriormente cada carpeta se encuentra con una base de datos,ya sea la original o con los datos ya limpios,por lo que si el usuario quiere interactuar con algun notebook no tendria problema,solo tiene que clonar el repositorio en su computador y ejecutarlo,siempre y cuando tenga instaladas las librerias que fueron mencionadas anteriormente en su computador.
