@@ -33,15 +33,17 @@ Para el análisis y respuestas a las preguntas de investigación, escribimos có
 -	sklearn.neighbors: KNeighborsClassifier
 -	sklearn.tree: DecisionTreeClassifier, plot_tree
 
-
 El procedimiento del proyecto fue llevado a cabo de la siguiente manera:
 1. La propuesta y realización de preguntas fue definida en conjunto por todo el grupo.
 2. "EDA" dividido en partes donde Cristobal Hernández se encargo de la limpieza de datos y verificar su calidad, Fernando Pavéz del proceso relacionado a la distribución de datos y estadísticas de estos, y Sebastian Blanco de la correlación entre datos y análisis multivariado.
 3. En la realización de preguntas, Fernando Pavéz se encargo de responder las número 1, 2 y 3, mientras que Sebastian Blanco respondió las número 4, 5 y 6.
 4. Para finalizar, Cristobal Hernández llevó a cabo el README junto la documentación del proyecto.
-El proyecto esta organizado en carpetas :
+
+
+El proyecto esta organizado en las siguientes carpetas :
 - En EDA esta el notebook con el proceso de limpieza y exploracion de datos junto con un csv que es la base de datos.
 - En la carpeta preguntas se encuentran los notebooks separados por cada pregunta que fue planteada en el EDA ,ademas se encuentra el archivo con los datos limpios.
 - En la carpeta de propuesta de proyecto hay un pdf con la organizacion de nuestro proyecto ,donde estan las motivaciones y objetivos de este mismo.
+
 EJECUCION Y REPRODUCTIBILIDAD :
 Como fue mencionado anteriormente cada carpeta se encuentra con una base de datos,ya sea la original o con los datos ya limpios,por lo que si el usuario quiere interactuar con algun notebook no tendria problema,solo tiene que clonar el repositorio en su computador y ejecutarlo,siempre y cuando tenga instaladas las librerias que fueron mencionadas anteriormente en su computador.
