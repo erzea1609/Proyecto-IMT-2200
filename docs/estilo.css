@@ -359,6 +359,10 @@ html{
     100%{width: 66%;}
 }
 
+.skills .skill .lesion{
+    width: 0%;
+    animation: 2s proyect forwards;
+}
 @keyframes lesion {
     0%{width: 0%;}
     100%{width: 66%;}
